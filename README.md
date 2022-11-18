@@ -8,7 +8,7 @@ August 31, 2022<br/>
 <p/>
 <br/>
 <p align="center">
-  <img width="460" height="200" src="Images/MarsRover.jpeg">
+  <img width="460" height="200" src="plays.jpeg">
 </p>
 <br/>
 
